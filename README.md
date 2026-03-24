@@ -1,5 +1,5 @@
 <img width="1680" height="460" alt="Portfolio" src="https://github.com/user-attachments/assets/fa228f3f-34e0-42dd-bb22-48b2c9add812" />
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Javier
+Hi !My name is Javier
 ===============================================================================================================================
 
 Administrador de Sistemas Informáticos en Red.
