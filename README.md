@@ -8,7 +8,6 @@ Administrador de Sistemas Informáticos en Red.
 Soy estudiante de ASIR, y me voy a especializar en ciberseguridad
 
 * 🌍  Estoy en Cartagena, Murcia.
-* ✉️  Puedes contactarme a traves de [javierborruecolorite@gmail.com](mailto:javierborruecolorite@gmail.com)
 * 🧠  Estoy aprendiendo Administración de Sistemas Informáticos en Red
 * 👥  Estoy aprendiendo Python
 
